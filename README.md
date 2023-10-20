@@ -1,5 +1,5 @@
 # 我没有上传文件，都是不能访问的
-使用的最大chunk大小 256kb（默认），最大子ROOT为174（默认）
+使用的最大chunk大小 256kb（默认），最大子LINK数为174（默认）
 # 如何贡献
 ipfs add -r --raw-leaves --cid-version 1 -H {文件夹}
 ### 大于10G文件
