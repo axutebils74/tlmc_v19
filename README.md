@@ -8,7 +8,7 @@ ipfs add -r --raw-leaves --cid-version 1 --nocopy -H {文件夹}
 # 来源
 - [kubo](https://github.com/ipfs/kubo)   
 - [Touhou Lossless Music Collection v.19 (torrent)](https://sites.google.com/site/tlmcfiles/Touhou%20lossless%20music%20collection%20v.19.torrent)
-- [TLMC](http://www.tlmc.eu/2018/01/tlmc-v19.html)
+- [Touhou Lossless Music Collection v.19](http://www.tlmc.eu/2018/01/tlmc-v19.html)
 # 其他
 - [ipfs desktop](https://github.com/ipfs-shipyard/ipfs-desktop#ipfs-desktop)
 请选择当您生成一个分享链接时，使用哪一个公共网关。 http://209.94.90.1
