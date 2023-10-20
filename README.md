@@ -18,5 +18,5 @@ ipfs daemon
 
 http://127.0.0.1:8080/ipfs/{CID哈希}
 # 待考虑
-将 hash 算法换成 blake2b-256 即换成
+将 hash 算法换成 blake2b-256 即换成   
 ipfs add -r --raw-leaves --cid-version 1  --chunker=size-1048576 -hash=blake2b-256 --nocopy -H {文件夹}
